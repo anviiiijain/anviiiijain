@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Indore
 * 🖥️  See my portfolio at [ANVIJAIN PORTFOLIO](http://anvijain.com)
 * ✉️  You can contact me at [anvijain250102@gmail.com](mailto:anvijain250102@gmail.com)
-* 🤝  I'm open to collaborating on ReactJS or full stack projects
+* 🤝  I'm open to collaborating using NextJS or full stack projects
 
 ### Skills
 
